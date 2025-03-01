@@ -21,7 +21,7 @@
     "@types/node": "22.13.0",
     "jest": "^29.7.0",
     "ts-jest": "^29.2.5",
-    "typescript": "5.5.4"
+    "typescript": "5.8.2"
   },
   "eslintConfig": {
     "extends": "@guardian/eslint-config-typescript"
